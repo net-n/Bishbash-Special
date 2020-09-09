@@ -5,7 +5,7 @@ body{
   .button{
     position: absolute;
     right: 60px;
-    top: 465px;
+    top: 450px;
     background-color:  #96202c;
   border-radius: 12px;
     color: #e0ece4;
@@ -28,7 +28,7 @@ body{
   .button2{
     position: absolute;
     right: 60px;
-    top: 422px;
+    top: 407px;
     background-color:  #353128;
   border-radius: 12px;
     color: #e0ece4;
@@ -59,4 +59,3 @@ body{
   margin-top: 10px;
     margin-bottom: 20px;
     }
-
