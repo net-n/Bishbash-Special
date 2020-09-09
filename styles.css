@@ -1,0 +1,35 @@
+body{
+  background-color: #3f3f44;
+  margin: 0;
+}
+  .button{
+    position: absolute;
+    right: 110px;
+    top: 480px;
+    background-color:  #fe7171;
+  border-radius: 12px;
+    color: #e0ece4;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    height: 40px;
+      padding-left: 12px;
+      padding-right: 12px;
+      margin: 30px auto 50px auto;
+  }
+
+
+    .button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+
+.responsive {
+  width: 100%;
+  height: 100%;
+}
+.contact{
+  margin-top: 10px;
+    margin-bottom: 20px;
+}
