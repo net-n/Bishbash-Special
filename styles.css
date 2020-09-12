@@ -6,7 +6,7 @@ body{
 
   .button{
     position: absolute;
-    right: 2PX;
+    right: 90PX;
     bottom: 0.5px;
     background-color:   #57652e;
   border-radius: 12px;
@@ -29,7 +29,7 @@ body{
 
   .button2{
     position: absolute;
-    right: 300PX;
+    right: 280PX;
     bottom: 0.5px;
     background-color:  #353128;
   border-radius: 12px;
@@ -54,8 +54,8 @@ body{
   height: 100%;
 }
 .contact{
-  margin-top: 10px;
-    margin-bottom: 20px;
+  margin-top: 5px;
+      margin-bottom: 10px;
 }
 .contact2{
   margin-top: 10px;
