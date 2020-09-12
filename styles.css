@@ -1,11 +1,13 @@
 body{
-  background-color: #3f3f44;
-  margin: 0;
+  background-color: white;
+  margin: auto;
+
 }
+
   .button{
     position: absolute;
-    right: 55px;
-    top: 480px;
+    right: 0.001%;
+    top: 600px;
     background-color:   #cba36c;
   border-radius: 12px;
     color: #e0ece4;
@@ -27,8 +29,8 @@ body{
 
   .button2{
     position: absolute;
-    right: 55px;
-    top: 438px;
+    right: 13%;
+    top: 600px;
     background-color:  #353128;
   border-radius: 12px;
     color: #e0ece4;
@@ -59,5 +61,15 @@ body{
   margin-top: 10px;
     margin-bottom: 20px;
     }
+    .bottom{
+        background-color: white;
+      position:absolute;
+      margin: auto;
+          top: 720px;
+    }
+.menu{
+  background-color: white;
+width: 1280px;
+}
 
 
