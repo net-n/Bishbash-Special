@@ -7,8 +7,8 @@ body{
   .button{
     position: absolute;
     right: 0.001%;
-    top: 600px;
-    background-color:   #cba36c;
+    bottom: 0.5px;
+    background-color:   #57652e;
   border-radius: 12px;
     color: #e0ece4;
     text-align: center;
@@ -29,8 +29,8 @@ body{
 
   .button2{
     position: absolute;
-    right: 15%;
-    top: 600px;
+    right: 12%;
+    bottom: 0.5px;
     background-color:  #353128;
   border-radius: 12px;
     color: #e0ece4;
@@ -66,10 +66,12 @@ body{
       position:absolute;
       margin: auto;
           top: 720px;
+            padding-bottom: 30px;
     }
 .menu{
   background-color: white;
 width: 1280px;
 }
+
 
 
