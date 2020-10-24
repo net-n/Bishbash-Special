@@ -144,6 +144,12 @@ p {
   padding: 3% 2%;
 }
 
+#cta{
+  font-family: 'Montserrat-Medium 500 italic';
+
+}
+
+
 #footer {
   color: grey;
 }
